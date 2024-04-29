@@ -1,2 +1,3 @@
-# Smile_detection
-Smile detection project for software engineering course 
+# Smile_Capture
+Clicks picture when smile is detected
+Software Engineering Course Project
