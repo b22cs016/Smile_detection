@@ -1,3 +1,2 @@
 # Smile_Capture
-Clicks picture when smile is detected
-Software Engineering Course Project
+P.S : "A system that can auto capture selfie by detecting smile "
